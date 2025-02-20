@@ -1,0 +1,5 @@
+input_strings = input().split()
+set1 = set(input_strings[0])
+set2 = set(input_strings[1])
+common_chars = sorted(set1 & set2)
+print(common_chars)
