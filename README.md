@@ -6,7 +6,7 @@ This document includes solutions in PixelGrader system @pixelmath education
 
 <img src="https://github.com/user-attachments/assets/1ac78f3b-e5d5-40fa-bbd1-fc39b4fc8822" width="500">
 
-
+## Courses & Language
 | Courses | Code Language | ผู้สอน |
 | --- | --- | --- |
 | C001, C004 การโปรแกรมสอบเข้าค่าย 1 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | P'Dew Pixelmath |
