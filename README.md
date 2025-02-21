@@ -14,9 +14,9 @@ This document includes solutions in PixelGrader system @pixelmath education
 | C007 การโปรแกรมในค่าย 2 สอวน.คอม | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | P'Neen Pixelmath |
 
 ## Grader's Teams
-| Name | Roles | Outstanding |
-| --- | --- | --- |
-| P'Dew | Instructors & Problems builder | Posncom |
-| P'Neen | Instructors | Silver Medal TOI |
-| P'Guitar | Problems builder | Gold Medal TOI |
-| P'Neung | Teaching Assistance | Posn Com 2 |
+| Name | Roles | Outstanding | Education|
+| --- | --- | --- | --- |
+| P'Dew | Instructors & Problems builder | Posncom | Computer engineering Chula (CP) |
+| P'Neen | Instructors | Silver Medal TOI | Computer engineering Chula (CP) |
+| P'Guitar | Problems builder | Gold Medal TOI | Computer engineering Chula (CP) |
+| P'Neung | Teaching Assistance | Posn Com 2 | Electrical engineering Chula (CUEE) |
