@@ -9,6 +9,7 @@ This document includes solutions in PixelGrader system @pixelmath education
 
 | Courses | Code Language |
 | --- | --- |
-| 'C001, C004 การโปรแกรมสอบเข้าค่าย 1' | Python |
-| 'C005 การโปรแกรมในค่าย 1 สอวน.คอม' | C, C++ |
-| 'C007 การโปรแกรมในค่าย 2 สอวน.คอม' | C++ |
+| 'C001, C004 การโปรแกรมสอบเข้าค่าย 1' | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| 'C005 การโปรแกรมในค่าย 1 สอวน.คอม' | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| 'C007 การโปรแกรมในค่าย 2 สอวน.คอม' | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
