@@ -13,9 +13,10 @@ This document includes solutions in PixelGrader system @pixelmath education
 | C005 การโปรแกรมในค่าย 1 สอวน.คอม | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | P'Dew Pixelmath |
 | C007 การโปรแกรมในค่าย 2 สอวน.คอม | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | P'Neen Pixelmath |
 
-## Teams
+## Grader's Teams
 | Name | Roles | Outstanding |
 | --- | --- | --- |
 | P'Dew | Instructors & Problems builder | Posncom |
 | P'Neen | Instructors | Silver Medal TOI |
-| P'Guitar | Instructors | Gold Medal TOI |
+| P'Guitar | Problems builder | Gold Medal TOI |
+| P'Neung | Teaching Assistance | Posn Com 2 |
