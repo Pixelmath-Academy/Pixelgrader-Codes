@@ -9,7 +9,7 @@ int main() {
     int n;
     cin >> n;
 
-    vector<vector<long long> > matrix(n + 1, vector<long long>(n + 1, 0));
+    vector<vector<long long> > matrix(n+1, vector<long long>(n + 1, 0));
     vector<vector<long long> > ps(n + 1, vector<long long>(n + 1, 0));
 
     for(int i = 1; i <= n; i++){
@@ -21,6 +21,7 @@ int main() {
     for(int i = 1; i <= n; i++){
         for(int j = 1; j <= n; j++){
             ps[i][j] = ps[i-1][j] + ps[i][j-1] - ps[i-1][j-1] + matrix[i][j];
+            //ps[i][j] = ps[i-1] + ps[n];
         }
     }
 

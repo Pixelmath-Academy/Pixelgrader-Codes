@@ -5,7 +5,7 @@ This document includes solutions in PixelGrader system @pixelmath education
 - Users can submit their codes in files or text in submission fields
 - Grader is a tools for pixelmath courses www.pixelmathschool.com
 
-<img src="https://github.com/user-attachments/assets/1ac78f3b-e5d5-40fa-bbd1-fc39b4fc8822" width="500">
+<img src="https://pixelmathschool.com/wp-content/uploads/2025/05/Change-68.jpg" width="500">
 
 ### Courses & Language
 | Courses | Code Language | ผู้สอน |
@@ -21,3 +21,4 @@ This document includes solutions in PixelGrader system @pixelmath education
 | P'Neen | Instructors | Silver Medal TOI | Computer engineering Chula (CP) |
 | P'Guitar | Problems builder | Gold Medal TOI | Computer engineering Chula (CP) |
 | P'Neung | Teaching Assistance | Posn Com 2 | Electrical engineering Chula (CUEE) |
+| P'Tawan | Teaching Assistance | TOI | CEDT Chula (CEDT) |
